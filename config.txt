@@ -1,0 +1,2 @@
+./waf configure --board MatekF405-TE
+./waf plane
